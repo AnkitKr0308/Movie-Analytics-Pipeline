@@ -1,0 +1,19 @@
+movie_id,genre_id,genre_name
+200,878,Science Fiction
+200,28,Action
+200,12,Adventure
+200,53,Thriller
+203,18,Drama
+203,80,Crime
+204,18,Drama
+204,53,Thriller
+204,12,Adventure
+205,18,Drama
+205,36,History
+205,10752,War
+207,18,Drama
+201,878,Science Fiction
+201,28,Action
+201,12,Adventure
+201,53,Thriller
+206,18,Drama
