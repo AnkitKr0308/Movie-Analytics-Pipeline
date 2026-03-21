@@ -1,23 +1,1033 @@
 movie_id,company_id,company_name
-200,4,Paramount Pictures
-200,76068,Digital Image Associates
-203,269193,Taplin-Perry-Scorsese Productions
-204,11788,Compagnie Industrielle et Commerciale Cinématographique
-204,141,Véra Films
-204,144,Fono Roma
-204,534,Filmsonor
-205,60,United Artists
-205,2760,Miracle Pictures
-205,217089,Seamus
-205,52723,Inside Track
-205,217090,Kiagli Releasing
-205,11912,Mikado Film
-205,21,Metro-Goldwyn-Mayer
-205,2188,Artisan Entertainment
-205,35,Lions Gate Films
-207,184460,A Steven Haft Production
-207,1089,Witt/Thomas Productions
-207,10282,Silver Screen Partners IV
-207,9195,Touchstone Pictures
-201,4,Paramount Pictures
-201,76068,Digital Image Associates
+393209,574,Lightstorm Entertainment
+393209,127928,20th Century Studios
+1638215,289828,Cosmocritor
+1638215,289829,Seven Cosmicals
+1638215,289830,V 13 Totalitarians
+1638215,289831,Nothing Everything Written
+1317715,284803,Paradoxo
+1317715,284804,Rodrigo Apresentador
+1645631,286830,iJep Productions
+216527,127928,20th Century Studios
+216527,574,Lightstorm Entertainment
+1451567,3,Pixar
+1463621,241519,Macha Films
+1598499,285979,Gullstar Animations
+1629462,288338,ZWStudios
+1605186,189609,Pastel
+1468313,4,Paramount Pictures
+1468313,333,Original Film
+1468313,113750,SEGA
+1468313,168701,SEGA of America
+1439365,291553,Gruagach Films
+1211845,214882,Zıvana Film
+1545226,4,Paramount Pictures
+1545226,333,Original Film
+1639029,289970,The American Trash
+1138526,121605,Locksmith Animation
+1138526,257419,Warner Bros. Pictures Animation
+1138526,8805,Industrial Light & Magic
+980571,176072,SkyCity Films
+1411095,86699,Maddock Films
+1653067,248890,Shazampool studios
+1536556,248950,SN Pictures
+1536556,258329,NW Studios
+1411093,86699,Maddock Films
+1553031,262246,828 Pictures
+615127,12,New Line Cinema
+615127,257419,Warner Bros. Pictures Animation
+615127,34081,Flynn Picture Company
+615127,8487,Sanrio
+615127,279167,Known Universe
+1620192,253762,Fine Studios
+1641824,290393,SOEM STUDIOS
+1641824,290394,FUNGI PICTURES
+1364797,184898,DC Studios
+1364797,101405,6th & Idaho Motion Picture Company
+1364797,240592,Swaybox Studios
+1364797,257419,Warner Bros. Pictures Animation
+1519227,265120,Cutting Edge Animation
+1519227,81273,One Ho Productions
+1519227,290553,Creative Cypher
+1519227,290554,Tatemen Entertainment
+1327821,3,Pixar
+1615789,3419,Central Partnership
+1615789,104485,CGF Films
+1615789,21179,Kinoslovo
+1615789,76049,Cinema Foundation of Russia
+1504349,2,Walt Disney Pictures
+1574840,33,Universal Pictures
+1574840,126588,Radio Silence
+1574840,130448,Project X Entertainment
+1574840,124634,Hivemind
+1566914,280103,Reel Sonata
+1597786,33,Universal Pictures
+1597786,6704,Illumination
+1247606,34,Sony Pictures
+1247606,1522,Neal Street Productions
+1247606,3797,Apple Corps
+1247605,34,Sony Pictures
+1247605,3797,Apple Corps
+1247605,1522,Neal Street Productions
+1247603,34,Sony Pictures
+1247603,1522,Neal Street Productions
+1247603,3797,Apple Corps
+1247601,34,Sony Pictures
+1247601,3797,Apple Corps
+1247601,1522,Neal Street Productions
+1488743,254639,5&2 Studios
+755679,33,Universal Pictures
+755679,1225,One Race
+755679,333,Original Film
+755679,34530,Perfect Storm Entertainment
+748865,11461,Bad Robot
+748865,180651,Dr. Seuss Enterprises
+748865,257419,Warner Bros. Pictures Animation
+748865,174,Warner Bros. Pictures
+1647603,3,Pixar
+1263361,318,CTB Film Company
+1263361,151871,ID Production
+1263361,76049,Cinema Foundation of Russia
+1627140,287971,schnoodle VIDEO
+1599330,283388,GRAND PICTURES Irlande
+1599330,283389,BESIDE Productions Belgique
+1599330,283391,LUMIÈRE PROJECT Hongkong
+1599330,283392,ARTAK Pictures USA & Luxembourg
+1599330,278750,RnB! Films
+1593390,21179,Kinoslovo
+1593390,76049,Cinema Foundation of Russia
+1583066,1039,Channel One
+1583066,42877,"Yellow, Black & White"
+1583066,76049,Cinema Foundation of Russia
+1554140,21652,FILM.UA Group
+1308261,239623,DLC Studios
+1299747,200204,Vacancy Visions Productions
+1299747,200205,Scream Soda Inc.
+1299747,246638,Morpho Studios
+1214974,289893,Frameatic Studios
+1601898,174,Warner Bros. Pictures
+1601898,735,Waverly Films
+1516340,268582,Aquatique
+1414788,249681,Euro Studios
+1387155,86699,Maddock Films
+1382950,86699,Maddock Films
+1546046,5,Columbia Pictures
+1546046,2251,Sony Pictures Animation
+1003598,420,Marvel Studios
+1003598,176762,Kevin Feige Productions
+1003598,106544,AGBO
+1090869,12,New Line Cinema
+1090869,194237,Middle-earth Enterprises
+1090869,174,Warner Bros. Pictures
+1090869,85284,The Imaginarium
+1090869,11,WingNut Films
+1308754,34780,Chi-Fou-Mi Productions
+1411090,86699,Maddock Films
+1586888,281365,Peoples Cinema
+1467398,87822,KinoFirm
+1024604,6125,Walt Disney Animation Studios
+1651461,33,Universal Pictures
+1423577,56,Amblin Entertainment
+1423577,195961,26th Street Pictures
+1230440,218260,Shaky Cam Studios
+1230440,218263,TKSC Productions
+1549195,273009,Texture: A Foster Visual Media House
+1549195,273011,TAD
+1413533,125281,PlayStation Productions
+1413533,34530,Perfect Storm Entertainment
+1413533,91797,Hutch Parker Entertainment
+1413533,34,Sony Pictures
+1538705,155744,Jagged Edge Productions
+1290568,257419,Warner Bros. Pictures Animation
+1290568,87017,On the Day
+1633476,271666,Filmhouse Pictures
+1633476,271667,Dada Films
+1633476,284035,Wals Company
+1633476,108563,BBC Studios
+1633476,31375,Evergreen Media Group
+1019685,181555,In Limbo Productions
+1564414,241519,Macha Films
+1202568,163658,Elytra Collective
+1265609,1632,Lionsgate
+1265609,198785,Hidden Pictures
+1265609,224643,Huge Film
+1265609,167684,Range Media Partners
+1290821,22146,Black Bear Pictures
+1290821,218150,Punch Palace Productions
+1290821,253186,CineMachine
+1290821,118472,Stampede Ventures
+1159559,4,Paramount Pictures
+1159559,143790,Spyglass Media Group
+1159559,130448,Project X Entertainment
+875828,288,BBC Film
+875828,241143,Garrison Drama
+875828,125282,Nebulastar
+687163,77973,Lord Miller
+687163,210099,Amazon MGM Studios
+687163,84041,Pascal Pictures
+687163,232193,Open Invite Entertainment
+687163,22842,Waypoint Entertainment
+1523145,71928,All Media A Start Company
+1523145,114676,START Studio
+1523145,13850,Sverdlovsk Film Studio
+1523145,76049,Cinema Foundation of Russia
+83533,127928,20th Century Studios
+83533,574,Lightstorm Entertainment
+83533,22213,TSG Entertainment
+1171145,10163,Working Title Films
+1171145,122772,The Story Factory
+1171145,23949,RAW
+1171145,210099,Amazon MGM Studios
+1171145,183787,Wild State
+1084242,6125,Walt Disney Animation Studios
+1084242,158526,Walt Disney Animation Studios
+840464,1632,Lionsgate
+840464,47729,STXfilms
+840464,138743,Anton
+840464,3528,Thunder Road
+840464,103331,G-BASE
+840464,253186,CineMachine
+1054867,174,Warner Bros. Pictures
+1054867,178,Ghoulardi Film Company
+1054867,216687,Domain Entertainment
+1327819,3,Pixar
+1236153,507,Atlas Entertainment
+1236153,210099,Amazon MGM Studios
+1236153,109501,Bazelevs
+1193501,35846,No Trace Camping
+1193501,129815,Wild Atlantic Pictures
+1233413,174,Warner Bros. Pictures
+1233413,148495,Proximity Media
+1233413,216687,Domain Entertainment
+1316092,2531,MRC
+1316092,82968,LuckyChap Entertainment
+1316092,207685,Lie Still
+1316092,174,Warner Bros. Pictures
+1316092,216687,Domain Entertainment
+1058710,143302,Novakovic Bros
+1058710,64580,Future Proof Films
+1058710,111951,JARS Productions
+1058710,228157,Gaudioso Twins Films
+1058710,212925,Twelve 83 entertainment
+680493,55914,Konami
+680493,342,Davis Films
+680493,189103,Ashland Hill Media Finance
+680493,239077,Supernix
+680493,178277,WIP
+680493,215964,Richmond Pictures
+680493,9987,Lipsync Productions
+680493,67260,Electric Shadow Company
+1088434,212611,Price Productions II
+1088434,26945,Skipstone Pictures
+1088434,35613,Millman Productions
+1088434,114757,Ron Lee Productions
+1088434,76992,Saban Films
+1088434,204545,Umbrelic Entertainment
+1088434,240783,Edge Code Films
+1088434,55669,Focus-Fox Studio
+1088434,91573,Satyricon Pictures
+1088434,240784,Vibrant Pictures
+1168190,210099,Amazon MGM Studios
+1168190,159602,On the Roam
+1168190,183234,Dogbone Entertainment
+1168190,287578,Henness Ridge Entertainment
+1168190,101405,6th & Idaho Motion Picture Company
+1168190,129569,Reunion Pacific Entertainment
+1311031,5887,ufotable
+1311031,2883,Aniplex
+1311031,2918,Shueisha
+1419406,122699,iQIYI Pictures （重复 同 iQiyi Motion Pictures）
+1419406,197030,Tao Piao Piao 淘票票
+1419406,25657,Hairun Pictures Company
+1419406,250765,Dong Fang Chen Xiang
+755898,33,Universal Pictures
+755898,109501,Bazelevs
+755898,59827,Patrick Aiello Productions
+1368166,1632,Lionsgate
+1368166,221429,Media Capital Technologies
+1368166,198785,Hidden Pictures
+1368166,284257,Pretty Dangerous Pictures
+1582770,115477,Jio Studios
+1582770,212774,B62 Studios
+1242898,127928,20th Century Studios
+1242898,840,Lawrence Gordon Productions
+1242898,1302,Davis Entertainment
+1242898,185309,Toberoff Productions
+1242898,22213,TSG Entertainment
+969681,420,Marvel Studios
+969681,5,Columbia Pictures
+969681,84041,Pascal Pictures
+1284460,237221,Mandarin & Compagnie
+1284460,121655,Kallouche Cinéma
+1284460,49473,Frakas Productions
+1284460,591,France 3 Cinéma
+1284460,792,RTBF
+1284460,92187,Proximus
+1284460,24430,BeTV
+1284460,245340,Orange
+1284460,95061,Shelter Prod
+1234731,134756,Fully Formed Entertainment
+1234731,5,Columbia Pictures
+1234731,22213,TSG Entertainment
+278,97,Castle Rock Entertainment
+1451398,3627,Warner Bros. Japan
+1451398,12386,Robot Communications
+1451398,1778,dentsu
+1451398,274862,Discovery Next
+1451398,11848,KDDI
+1451398,157807,WOWOW
+1451398,177226,Universal Music Japan
+1451398,180033,UUUM
+1451398,145105,Tohan
+1451398,62866,Futabasha
+1451398,104184,Lawson Entertainment
+1451398,3363,MBS
+1451398,257298,Starts Publishing Corporation
+1451398,274711,Yami
+1451398,2918,Shueisha
+1451398,170125,Movie Walker
+1387382,231139,Beno Films (US)
+1387382,63611,ETA films
+1387382,198179,Filmopoly
+1387382,121204,BondIt Media Capital
+1387382,41735,Buffalo 8
+1387382,137373,CaliWood Pictures
+1387382,237010,FluffyBear Media
+1119449,47,Constantin Film
+1119449,10262,Blind Wink
+1119449,787,3 Arts Entertainment
+1119449,214700,Robert Kulzer Productions
+749343,12551,Screen Gems Television
+11431,73953,ELC Productions
+11431,6401,Alan Greenspan Productions
+11431,6402,Mars Media Beteiligungs
+11431,711,Fox 2000 Pictures
+11431,19813,Flower Films
+11431,1508,Wildgaze Films
+11375,497,Revolution Studios
+1167307,30216,Sunrise Productions
+1167307,206626,Slingshot USA
+1167307,165435,Angel Studios
+1167307,223271,2521 Entertainment
+7451,497,Revolution Studios
+991708,21546,Fabula
+337170,33,Universal Pictures
+337170,10246,Cross Creek Pictures
+337170,23,Imagine Entertainment
+337170,50481,Vendian Entertainment
+337170,80680,Quadrant Pictures
+337170,147591,Hercules Film Fund
+244458,8532,1984 Private Defense Contractors
+244458,6667,Mandalay Vision
+244458,264,Studio Babelsberg
+244458,829,Vertigo Entertainment
+217890,21,Metro-Goldwyn-Mayer
+1317288,41077,A24
+1317288,243162,Central Pictures
+1306368,187968,Artists Equity
+1217584,91991,Bowfinger
+1217584,281730,Atresmedia Cine
+1217584,7864,Amiguetes Entertainment
+1272837,5,Columbia Pictures
+1272837,22213,TSG Entertainment
+1272837,284,DNA Films
+1314786,217473,Fonte Films
+1584215,177095,SP Media Group
+858024,122908,Hera Pictures
+858024,1522,Neal Street Productions
+858024,56,Amblin Entertainment
+858024,197107,Book of Shadows
+1362514,263563,Spooky AF Productions
+803796,2251,Sony Pictures Animation
+696393,275988,Pariah
+696393,113521,StudioCanal UK
+696393,218178,StudioCanal
+54979,41954,Producciones Tepeyac
+54979,41955,Oscar Dancigers Production
+1448560,154063,Capstone Pictures
+1448560,155758,Tea Shop Productions
+458576,7220,Capcom
+458576,47,Constantin Film
+458576,81620,Tencent Pictures
+458576,882,TOHO
+458576,265714,AB² Digital Pictures
+1539104,21444,MAPPA
+1539104,882,TOHO
+1539104,3363,MBS
+1539104,2918,Shueisha
+1539104,158200,Sumzap
+425274,1632,Lionsgate
+425274,281285,Cohen Pictures
+425274,221429,Media Capital Technologies
+425274,491,Summit Entertainment
+384530,5999,Grand National Pictures
+384530,10590,Franklyn Warner Productions
+1650558,149142,Vivamax
+1062722,101082,Double Dare You
+1062722,10678,Demilo Films
+1062722,279898,Bluegrass 7
+157336,923,Legendary Pictures
+157336,9996,Syncopy
+157336,13769,Lynda Obst Productions
+24428,420,Marvel Studios
+1426964,345,O2 Filmes
+1511417,57946,Arka Media Works
+1367642,33,Universal Pictures
+1367642,241073,Heartbones Entertainment
+1367642,235046,Little Engine Productions
+759584,187755,Blackhand Pictures
+759584,551,Mandalay Pictures
+759584,13240,Bron Studios
+759584,199825,3.16 Productions
+759584,53152,Creative Wealth Media Finance
+36568,7,DreamWorks Pictures
+36568,762,Mutual Film Company
+1266127,127929,Searchlight Pictures
+1266127,126588,Radio Silence
+1266127,19367,Vinson Films
+1266127,34982,Mythology Entertainment
+1401778,85170,Altitude Film Sales
+1401778,5056,Head Gear Films
+1401778,25954,Metrol Technology
+1401778,19638,Altitude Film Entertainment
+1401778,21608,Enderby Entertainment
+1401778,107513,Phiphen Pictures
+1170608,923,Legendary Pictures
+461955,95724,Oats Studios
+911430,81,Plan B Entertainment
+911430,130,Jerry Bruckheimer Films
+911430,199632,Dawn Apollo Films
+911430,194232,Apple Studios
+911430,19647,Monolith Pictures
+1424965,251623,A Xanaheim Original
+1424965,75419,Inkas Film & T.V. Productions
+1424965,189220,Whatevergroup
+1297842,2251,Sony Pictures Animation
+1297842,120524,Unanimous Media
+1297842,184287,Modern Magic
+1297842,5,Columbia Pictures
+1297842,79426,MACRO
+1297842,22213,TSG Entertainment
+14223,559,TriStar Pictures
+14223,2376,Blueprint Pictures
+14223,129,Section Eight
+1196067,104678,23ten
+1196067,215935,Gramercy Park Media
+1196067,168295,Studio507
+1196067,15465,Amasia Entertainment
+1241470,220195,Roosevelt Film Lab
+1241470,220196,Denton Film
+1241470,265676,Burning Tractor
+1246049,6896,EuropaCorp
+1246049,356,TF1 Films Production
+1246049,2902,SND
+1246049,18626,Kinology
+1246049,255253,Actarus Productions
+1246049,170748,Luc Besson Production
+238,4,Paramount Pictures
+238,10211,Alfran Productions
+1110034,119141,Handmade films in Norwegian Woods
+1110034,38072,Nordisk Film Norway
+81471,13122,Productora Fílmica Real
+81471,14188,Conacite Uno
+81471,16593,Hemdale
+798645,4,Paramount Pictures
+798645,131464,Complete Fiction
+798645,28788,Genre Films
+798645,216687,Domain Entertainment
+438631,923,Legendary Pictures
+15598,4,Paramount Pictures
+15598,1575,Lewis Gilbert Productions
+1363123,82819,Skydance Media
+1363123,169668,Municipal Pictures
+1180831,108394,Motion Blur
+335490,51068,Toolbox Film
+335490,51069,Rosendahl Film
+335490,17514,Cinevita Film Company
+1003596,420,Marvel Studios
+1003596,176762,Kevin Feige Productions
+1003596,106544,AGBO
+191583,15015,Schenck-Koch Productions
+191583,4802,Bel-Air Productions
+1226863,6704,Illumination
+1226863,33,Universal Pictures
+1226863,12288,Nintendo
+634649,420,Marvel Studios
+634649,84041,Pascal Pictures
+634649,5,Columbia Pictures
+1291335,221397,A Higher Standard
+1291335,110723,Nickel City Pictures
+1291335,221363,Kinnane Brothers
+1291335,96310,LB Entertainment
+1291335,165435,Angel Studios
+276746,25163,Ocean Entertainment Group
+929831,858,Tessalit Productions
+929831,167054,Red Balloon Film
+929831,52455,Ascent Film
+929831,7465,Novak Prod
+929831,16421,Rosa Filmes
+929831,158513,Furyo Films
+456483,90014,Strange Quark Films
+456483,88606,Vertical
+1010581,32485,Pokeepsie Films
+1010581,208240,Amazon Studios
+299536,420,Marvel Studios
+121872,7281,BFI
+121872,288,BBC Film
+121872,39696,Adventure Films
+121872,7306,The Match Factory
+121872,290,Ingenious Media
+121872,13235,Media House Capital
+121872,5123,Miso Film
+121872,118,Det Danske Filminstitut
+879945,113598,Fonds Audiovisuel de Flandres (VAF)
+879945,228143,Wenneker
+1234821,33,Universal Pictures
+1234821,56,Amblin Entertainment
+1450966,71262,Aerofilms
+1381027,11561,Recorded Picture Company
+1381027,6265,Skopia Film
+1381027,2466,Wytwórnia Filmów Dokumentalnych i Fabularnych
+1381027,277343,Venatu Capital
+1381027,250,CANAL+ Polska
+1381027,233704,TVN Warner Bros. Discovery
+36304,75054,SIGLO
+428390,28367,RTV Slovenija
+428390,23084,Vertigo
+428390,48427,E-motion Film
+502356,33,Universal Pictures
+502356,6704,Illumination
+502356,12288,Nintendo
+1228246,3172,Blumhouse Productions
+1228246,211144,Scott Cawthon Productions
+1228246,116736,Mind Hive Films
+588787,3130,Tempo Productions
+588787,7281,BFI
+588787,5056,Head Gear Films
+588787,11667,Northern Ireland Screen
+588787,61922,Bankside Films
+588787,80241,Canderblinks Film
+588787,150838,Out of Orbit
+52702,17954,Penaria
+1191876,25811,KingdomWorks
+1291608,212774,B62 Studios
+1291608,115477,Jio Studios
+1159831,206484,First Love Films
+1159831,174,Warner Bros. Pictures
+1159831,275188,In The Current Company
+1159831,216687,Domain Entertainment
+1464786,29079,Bontonfilm
+1813,676,Monarchy Enterprises B.V.
+1813,508,Regency Enterprises
+1813,824,Kopelson Entertainment
+1813,10104,New Regency Pictures
+1813,20555,Taurus Film
+1813,174,Warner Bros. Pictures
+991494,24955,Paramount Animation
+991494,2348,Nickelodeon Movies
+991494,216687,Domain Entertainment
+126889,25,20th Century Fox
+126889,401,Brandywine Productions
+126889,221347,Scott Free Productions
+1218925,21444,MAPPA
+1439112,76991,Highland Film Group
+1439112,187281,Slow Burn
+1439112,174474,Broken Open Pictures
+1439112,148930,Bonfire Legend
+1439112,215935,Gramercy Park Media
+1439112,19330,Mannequin Films
+1439112,233099,Peachtree Media Partners
+1439112,274685,Vacancy Films
+693134,923,Legendary Pictures
+62029,4986,Intercapital
+465212,1766,Dieter Geissler Filmproduktion
+465212,39823,Popular Filmproduktion
+465212,619,Terra-Filmkunst
+1069905,84041,Pascal Pictures
+1069905,437,Heyday Films
+1069905,181486,NB/GG Pictures
+1220564,2345,Lemming Film
+1220564,39720,One Two Films
+1220564,9171,CinemaScópio
+1220564,94,ARTE France Cinéma
+1220564,228923,MK Productions
+1220564,134166,Primo Content
+1220564,11547,Agência Nacional do Cinema - ANCINE
+1220564,197334,Banco Regional de Desenvolvimento do Extremo Sul
+1220564,181087,Fundo Setorial do Audiovisual
+457332,79732,Talent International Media
+457332,12142,XYZ Films
+457332,48805,Changchun Film Studio
+457332,25660,Huaxia Film Distribution
+457332,232656,Flame Pictures Company
+457332,110797,Epitome Capital
+457332,20555,Taurus Film
+1214931,86382,Bluestone Entertainment
+1214931,10221,Walden Media
+1214931,166380,Filmsquad
+1214931,34982,Mythology Entertainment
+1214931,282266,Titan Media
+1305781,69484,Alibaba Pictures Group
+1305781,65442,DF Pictures
+1305781,285214,大麦娱乐
+1305781,31814,Peace Film Production Co.
+1305781,25660,Huaxia Film Distribution
+1305781,2270,China Film Group Corporation
+1078605,12,New Line Cinema
+1078605,240675,Subconscious
+1078605,829,Vertigo Entertainment
+1078605,18609,BoulderLight Pictures
+1078605,216687,Domain Entertainment
+1248226,210099,Amazon MGM Studios
+1248226,110723,Nickel City Pictures
+1248226,221397,A Higher Standard
+1248226,28787,Wide Awake Pictures
+1248226,55446,Arcana Studio
+120,12,New Line Cinema
+120,11,WingNut Films
+120,5237,The Saul Zaentz Company
+533533,2,Walt Disney Pictures
+533533,23791,Sean Bailey Productions
+597,4,Paramount Pictures
+597,25,20th Century Fox
+597,574,Lightstorm Entertainment
+557,19551,Marvel Enterprises
+557,326,Laura Ziskin Productions
+557,5,Columbia Pictures
+19995,444,Dune Entertainment
+19995,574,Lightstorm Entertainment
+19995,25,20th Century Fox
+19995,133789,Ingenious Film Partners
+269149,6125,Walt Disney Animation Studios
+1199193,198299,Good Pals
+1199193,130899,SSS Film Capital
+1199193,65649,SSS Entertainment
+1199193,202995,The Syndicate
+1199193,274597,American Picture House Corporation
+1124566,21979,Mer Film
+1124566,199028,Eye Eye Pictures
+1124566,259543,Lumen
+1124566,76,Zentropa Entertainments
+1124566,1618,Komplizen Film
+1124566,288,BBC Film
+1124566,2801,Film i Väst
+1124566,189258,Oslo Filmfond
+1124566,218924,Mediefondet Zefyr
+1124566,226500,Alaz Film
+1124566,49936,Don't Look Now
+1124566,228923,MK Productions
+1124566,94,ARTE France Cinéma
+1124566,11237,ZDF/Arte
+1124566,154209,Storyline Studios
+1124566,248673,Léger Production
+1029575,169668,Municipal Pictures
+1029575,82819,Skydance Media
+1646787,149142,Vivamax
+1396888,149142,Vivamax
+1061474,184898,DC Studios
+1061474,94218,Troll Court Entertainment
+1061474,11565,The Safran Company
+1061474,216687,Domain Entertainment
+322441,25,20th Century Fox
+155,174,Warner Bros. Pictures
+155,923,Legendary Pictures
+155,9996,Syncopy
+155,429,DC
+1077731,78648,Young Vic
+4247,10958,Brad Grey Pictures
+4247,1607,Gold/Miller Productions
+4247,1608,Wayans Bros. Entertainment
+4247,7405,Dimension Films
+1426297,130106,Dystopia Films
+1426297,97315,Black Mandala
+4934,4051,Warner Bros.-Seven Arts
+14262,2880,Charm City Productions
+14262,38223,Dreamland
+10703,2965,SCS Entertainment
+10703,3618,Film Workshop
+10703,4054,Mandarin Films
+10703,4617,Beijing Ciwen Digital Oriental Film & TV Production Co.
+10703,5637,City Glory Pictures Ltd.
+10703,11840,Film Victoria
+10703,1615,Fortissimo Films
+10866,508,Regency Enterprises
+10866,11461,Bad Robot
+808,520,Pacific Data Images
+808,521,DreamWorks Animation
+808,7,DreamWorks Pictures
+122,12,New Line Cinema
+122,11,WingNut Films
+122,5237,The Saul Zaentz Company
+27205,923,Legendary Pictures
+27205,9996,Syncopy
+27205,174,Warner Bros. Pictures
+1561687,120409,Rise East Entertainments Pvt Ltd
+628847,7355,Creativity Media
+628847,114874,Signature Entertainment
+628847,178359,828 Productions
+628847,179831,Capstone Studios
+628847,183234,Dogbone Entertainment
+628847,189103,Ashland Hill Media Finance
+628847,206783,Signature Films
+628847,221347,Scott Free Productions
+628847,225044,Koala FX
+1624,33,Universal Pictures
+1624,23,Imagine Entertainment
+201760,15021,Pan O Rama
+1575337,20556,Studio Colorido
+1575337,279500,Studio Chromato
+1575337,120469,Twin Engine
+10733,23,Imagine Entertainment
+10733,9195,Touchstone Pictures
+356320,212188,Productrices Associées
+356320,6623,Caramel Films
+1007734,33,Universal Pictures
+1007734,121470,87North Productions
+1007734,86647,OPE Partners
+1007734,123230,Eighty Two Films
+129,10342,Studio Ghibli
+129,1779,Tokuma Shoten
+129,6755,Nippon Television Network Corporation
+129,11847,Mitsubishi
+129,1778,dentsu
+129,1780,TFC
+1353333,69347,ITN Distribution
+496243,4399,Barunson E&A
+1198994,122323,Raimi Productions
+1198994,127928,20th Century Studios
+1198994,22213,TSG Entertainment
+1379885,137876,Nástup
+807,12,New Line Cinema
+807,4286,Juno Pix
+807,16775,Arnold Kopelson Productions
+1315303,225897,18Hz Productions
+1315303,4,Paramount Pictures
+1315303,216687,Domain Entertainment
+1083637,111627,Hombale Films
+575265,4,Paramount Pictures
+575265,82819,Skydance Media
+575265,21777,TC Productions
+31250,68754,DYN Entertainment
+1006462,64948,Hillin Entertainment
+1006462,189103,Ashland Hill Media Finance
+1006462,176331,BGG Capital
+1006462,185261,Red Phoenix Productions
+1006462,139457,The Video Store
+1006462,6854,Benetone Films
+872585,9996,Syncopy
+872585,33,Universal Pictures
+872585,507,Atlas Entertainment
+872585,15123,Breakheart Films
+872585,239215,Peters Creek Entertainment
+680,14,Miramax
+680,59,A Band Apart
+680,216,Jersey Films
+952374,150758,CatchLight Studios
+952374,166470,Pacesetter Productions
+952374,172021,Stagecoach Entertainment
+952374,153802,The Forest Road Company
+701387,3353,Element Pictures
+701387,123620,Square Peg
+701387,121813,Fremantle
+701387,264539,Pith Quest Films
+701387,138287,Fruit Tree
+701387,128404,CJ ENM
+617126,420,Marvel Studios
+617126,176762,Kevin Feige Productions
+10538,174,Warner Bros. Pictures
+603,79,Village Roadshow Pictures
+603,372,Groucho II Film Partnership
+603,1885,Silver Pictures
+603,174,Warner Bros. Pictures
+76600,127928,20th Century Studios
+76600,574,Lightstorm Entertainment
+76600,22213,TSG Entertainment
+533535,420,Marvel Studios
+533535,104228,Maximum Effort
+533535,2575,21 Laps Entertainment
+533535,127928,20th Century Studios
+533535,176762,Kevin Feige Productions
+533535,22213,TSG Entertainment
+226674,63487,Carthago Coop. Cinematográfica
+226674,13983,Südwestfunk
+226674,30277,Janus Filmproduktion GmbH
+950387,174,Warner Bros. Pictures
+950387,923,Legendary Pictures
+950387,110691,Mojang Studios
+950387,829,Vertigo Entertainment
+950387,159602,On the Roam
+950387,216687,Domain Entertainment
+1249508,228504,Four J Films
+1197306,118475,Cedar Park Entertainment
+1197306,219295,BlockFilm
+1197306,218150,Punch Palace Productions
+1197306,166120,Balboa Productions
+1197306,22146,Black Bear Pictures
+1197306,181874,Fifth Season
+1197306,253169,CAT5
+950396,82819,Skydance Media
+950396,162439,Crooked Highway
+950396,194232,Apple Studios
+1223601,177094,Cosmic Snowball
+1223601,182028,Good Chaos
+1223601,62408,Subzero Film Entertainment
+639988,199265,CJ ENM Studios
+639988,34725,Moho Film
+639988,123220,KG Productions
+4232,7405,Dimension Films
+4232,163562,Woods Entertainment
+671,174,Warner Bros. Pictures
+671,437,Heyday Films
+671,436,1492 Pictures
+1317672,19916,Lotus Production
+1317672,210099,Amazon MGM Studios
+1317672,176106,Leone Film Group
+13,4,Paramount Pictures
+13,21920,The Steve Tisch Company
+13,412,Wendy Finerman Productions
+1600672,4145,khara
+1087192,521,DreamWorks Animation
+1087192,2527,Marc Platt Productions
+315635,420,Marvel Studios
+315635,84041,Pascal Pictures
+315635,34034,LStar Capital
+315635,5,Columbia Pictures
+893694,8356,Viva Films
+893694,149142,Vivamax
+1175942,521,DreamWorks Animation
+553510,15355,Opéra National de Paris
+1406657,15662,Studio Chizu
+1406657,6755,Nippon Television Network Corporation
+1406657,34,Sony Pictures
+1406657,82346,Sony Pictures
+1406657,2073,KADOKAWA
+1406657,882,TOHO
+519182,33,Universal Pictures
+519182,6704,Illumination
+328595,25250,Fox Digital Studios
+1095885,39043,Traveling Picture Show Company
+1095885,195047,Wavemaker Creative
+1095885,12142,XYZ Films
+571756,47,Constantin Film
+571756,162,BR
+571756,3391,ORF
+571756,1251,ARD
+571756,986,ARD Degeto
+550,711,Fox 2000 Pictures
+550,508,Regency Enterprises
+550,4700,Linson Entertainment
+550,25,20th Century Fox
+550,20555,Taurus Film
+980477,167789,Chengdu Coco Cartoon
+980477,17818,Beijing Enlight Pictures
+980477,161769,Beijing Enlight Media
+980477,273292,Chengdu Zizai Jingjie Culture Media
+980477,273293,Beijing Coloroom Technology
+1499826,183452,Visitor Media
+475557,174,Warner Bros. Pictures
+475557,83036,Joint Effort
+475557,79,Village Roadshow Pictures
+475557,13240,Bron Studios
+475557,128064,DC Films
+181808,1,Lucasfilm Ltd.
+14052,10201,Interscope Communications
+14052,25,20th Century Fox
+34563,55015,Pointe Studios
+34563,43,Fox Searchlight Pictures
+34563,1975,Sneak Preview Entertainment
+34563,444,Dune Entertainment
+45757,17669,Believe Pictures
+45757,78805,Redemption Films
+45757,26574,Faith for Today
+324857,5,Columbia Pictures
+324857,77973,Lord Miller
+324857,84041,Pascal Pictures
+324857,2251,Sony Pictures Animation
+324857,14439,Arad Productions
+324857,7505,Marvel Entertainment
+161579,8298,Warner Bros. Cartoons
+552524,2,Walt Disney Pictures
+552524,118854,Rideback
+646385,4,Paramount Pictures
+646385,130448,Project X Entertainment
+646385,126588,Radio Silence
+646385,143790,Spyglass Media Group
+507244,89171,Endurance Media
+507244,333,Original Film
+507244,183234,Dogbone Entertainment
+507244,9987,Lipsync Productions
+1258151,3467,Studio Trite
+1258151,69587,Russia 1
+1258151,3419,Central Partnership
+1258151,76049,Cinema Foundation of Russia
+1517988,5488,Fox Film Corporation
+227156,308,The Weinstein Company
+227156,53464,Asis Productions
+227156,17145,Tonik Productions
+227156,10221,Walden Media
+227156,12005,Yucaipa Films
+10110,174,Warner Bros. Pictures
+10110,56,Amblin Entertainment
+10184,12,New Line Cinema
+10184,19813,Flower Films
+372058,3756,CoMix Wave Films
+372058,882,TOHO
+372058,2073,KADOKAWA
+372058,8157,jeki
+372058,14602,AMUSE
+372058,128617,voque ting
+372058,104184,Lawson Entertainment
+1310568,10449,Mini Productions
+1310568,185565,ARI Studios
+1310568,157172,Ace Entertainment Films
+795615,7281,BFI
+795615,12177,Ffilm Cymru Wales
+795615,52352,Great Point Media
+795615,66871,Joio
+795615,165046,Fields Park Media Partners
+795615,5075,S4C
+1045944,42141,DreamWorks Animation Television
+1381216,40367,Valencia Motion Pictures
+1381216,243556,Crown Creative Content
+569094,5,Columbia Pictures
+569094,2251,Sony Pictures Animation
+569094,77973,Lord Miller
+569094,84041,Pascal Pictures
+569094,14439,Arad Productions
+569094,7505,Marvel Entertainment
+44399,25,20th Century Fox
+1715,14,Miramax
+1715,1693,Nina Saxon Film Design
+1715,1811,FilmColony
+346698,82968,LuckyChap Entertainment
+346698,437,Heyday Films
+346698,181486,NB/GG Pictures
+346698,6220,Mattel
+346698,174,Warner Bros. Pictures
+1205225,118114,Uproar Pictures
+361743,82819,Skydance Media
+361743,10288,Don Simpson/Jerry Bruckheimer Films
+361743,4,Paramount Pictures
+429617,420,Marvel Studios
+429617,84041,Pascal Pictures
+429617,5,Columbia Pictures
+1267319,126602,See Át Film
+1022789,3,Pixar
+1252037,78486,Pantaleon Films
+62201,64777,Vision Film
+1429605,44632,Gravitas Ventures
+1429605,41945,Indy Entertainment
+1429605,87472,Showdown Productions
+1429605,258062,Valletta Pictures
+1429605,12852,Shout! Factory
+999136,22876,Suretone Pictures
+999136,1632,Lionsgate
+939243,4,Paramount Pictures
+939243,333,Original Film
+939243,77884,Marza Animation Planet
+939243,113750,SEGA
+939243,10644,Blur Studio
+939243,168701,SEGA of America
+299534,420,Marvel Studios
+105,33,Universal Pictures
+105,56,Amblin Entertainment
+1589891,21914,K & S Films
+672,174,Warner Bros. Pictures
+672,437,Heyday Films
+672,436,1492 Pictures
+672,19094,MIRACLE Productions
+1588846,149142,Vivamax
+862,3,Pixar
+1317149,233928,One Story High
+1317149,3130,Tempo Productions
+1317149,113521,StudioCanal UK
+1241982,6125,Walt Disney Animation Studios
+1241982,158526,Walt Disney Animation Studios
+1038392,12,New Line Cinema
+1038392,216687,Domain Entertainment
+1038392,11565,The Safran Company
+1038392,76907,Atomic Monster
+286687,106867,Shakabuku Films
+497,97,Castle Rock Entertainment
+497,3982,Darkwoods Productions
+1497970,261822,Warner Bros. China
+1497970,191908,China Film 中国电影股份
+1497970,74135,Wu Zhou Film Distribution
+1497970,71194,Original Force Animation
+1497970,277630,Origin Animation
+1497970,2270,China Film Group Corporation
+350,711,Fox 2000 Pictures
+350,25,20th Century Fox
+350,412,Wendy Finerman Productions
+769,8880,Winkler Films
+769,174,Warner Bros. Pictures
+1389149,150300,Dharmatic Entertainment
+216015,33,Universal Pictures
+216015,10146,Focus Features
+216015,11370,Michael De Luca Productions
+216015,7626,Trigger Street Productions
+674,174,Warner Bros. Pictures
+674,437,Heyday Films
+674,462,Patalex IV Productions
+1242501,2520,Arclight Films
+1242501,220394,Top Film
+1489187,225481,Forza Film
+1489187,71928,All Media A Start Company
+1489187,15755,Ministry of Culture of the Russian Federation
+1156594,32485,Pokeepsie Films
+1156594,210099,Amazon MGM Studios
+424,56,Amblin Entertainment
+1428862,179834,Espotlight
+541671,3528,Thunder Road
+541671,23008,87Eleven
+541671,1632,Lionsgate
+1184918,521,DreamWorks Animation
+773543,114676,START Studio
+773543,152633,Okapi Production
+1321179,84678,BA Entertainment
+1321179,283036,Onda Works
+1555951,149142,Vivamax
+225914,10367,Danchuk Productions
+225914,19683,Charles Fries Productions
+225914,57020,Dan Goodman Productions
+10138,420,Marvel Studios
+10138,7297,Fairview Entertainment
+10138,7505,Marvel Entertainment
+121,12,New Line Cinema
+121,11,WingNut Films
+121,5237,The Saul Zaentz Company
+240,4,Paramount Pictures
+240,536,The Coppola Company
+1032892,127929,Searchlight Pictures
+1032892,88928,Mighty Engine
+1726,420,Marvel Studios
+1726,7505,Marvel Entertainment
+1726,7297,Fairview Entertainment
+982843,220638,Hwansang Studio Seoul
+8587,2,Walt Disney Pictures
+8587,171656,Walt Disney Feature Animation
+1035259,8789,Fuzzy Door Productions
+1035259,4,Paramount Pictures
+1035259,216687,Domain Entertainment
+101,9,Gaumont
+101,66743,Les Films du Dauphin
+1629382,7117,Les Films Velvet
+1629382,101932,Srab Films
+1490241,85171,Ego Media
+1490241,6154,Allfilm
+1490241,56475,Staron Film
+574475,12,New Line Cinema
+574475,48788,Practical Pictures
+574475,252366,Freshman Year
+574475,252367,Fireside Films
+574475,216687,Domain Entertainment
+941109,27467,Team Downey
+941109,210099,Amazon MGM Studios
+1357633,2883,Aniplex
+1357633,13113,A-1 Pictures
+8966,491,Summit Entertainment
+8966,12292,Temple Hill Entertainment
+8966,4000,Maverick Films
+8966,5218,Imprint Entertainment
+8966,500,Goldcrest
+8966,234680,Aura Films

@@ -1,5 +1,5 @@
 import pandas as pd
-from config.config import DB_CONN_STRING, production_companies_path, raw_movies_path, cleaned_movies_path, genres_path
+from config import DB_CONN_STRING, production_companies_path, raw_movies_path, cleaned_movies_path, genres_path
 from sqlalchemy import create_engine, text
 from utils.logger import write_log
 
@@ -17,9 +17,9 @@ def load_movies():
 
         WHEN NOT MATCHED
         THEN
-            INSERT (id, title, release_date, vote_average, vote_count)
+            INSERT (id, title, release_date, vote_average, vote_count, created_at, updated_at)
             VALUES(source.id, source.title, source.release_date,
-                    source.vote_average, source.vote_count)
+                    source.vote_average, source.vote_count, GETDATE(), GETDATE())
 
         WHEN MATCHED AND (
             ISNULL(source.title, '') <> ISNULL(target.title, '') OR
@@ -32,8 +32,8 @@ def load_movies():
                 title=source.title,
                 release_date=source.release_date,
                 vote_average=source.vote_average,
-                vote_count=source.vote_count
-
+                vote_count=source.vote_count,
+                updated_at=GETDATE()
         OUTPUT
             $action, inserted.id, deleted.id;
     """
@@ -45,9 +45,12 @@ def load_movies():
         # print('Updated movie details into staging.movies table...')
         logger.info("Loading data into 'staging.movies' table...")
         df_movies.drop_duplicates(subset=["id"], inplace=True)
+        # df_movies["created_at"] = pd.Timestamp.now()
+        with engine.begin() as conn:
+            conn.execute(text("TRUNCATE TABLE staging.movies"))
         # Loading the data into staging table
         df_movies.to_sql("movies", engine, schema="staging",
-                         if_exists="replace", index=False)
+                         if_exists="append", index=False)
 
         logger.info("Successfully loaded data into 'staging.movies' table.")
         # print('staging.movies tables updated')
@@ -94,15 +97,16 @@ def load_genres():
 
         WHEN NOT MATCHED
         THEN
-            INSERT(genre_id, genre_name)
-            VALUES(source.genre_id, source.genre_name)
+            INSERT(genre_id, genre_name, created_at, updated_at)
+            VALUES(source.genre_id, source.genre_name, GETDATE(), GETDATE())
 
         WHEN MATCHED AND(
             ISNULL(source.genre_name, '') <> ISNULL(target.genre_name,'')
         )
         THEN
             UPDATE SET
-                genre_name=source.genre_name
+                genre_name=source.genre_name,
+                updated_at=GETDATE()
 
         OUTPUT
             $action, inserted.genre_id as new_id, deleted.genre_id as old_id;
@@ -116,8 +120,8 @@ def load_genres():
 
         WHEN NOT MATCHED
         THEN
-            INSERT (genre_id, movie_id)
-            VALUES(source.genre_id, source.movie_id)
+            INSERT (genre_id, movie_id, created_at, updated_at)
+            VALUES(source.genre_id, source.movie_id, GETDATE(), GETDATE())
 
         OUTPUT
             $action, inserted.genre_id;
@@ -129,8 +133,11 @@ def load_genres():
             genres_path)
         logger.info("Loading data into 'staging.genres' table...")
         df_genres.drop_duplicates(subset=["genre_id"], inplace=True)
+        # df_genres["created_at"] = pd.Timestamp.now()
+        with engine.begin() as conn:
+            conn.execute(text("TRUNCATE TABLE staging.genres"))
         df_genres.to_sql("genres", engine, schema="staging",
-                         if_exists="replace", index=False)
+                         if_exists="append", index=False)
         logger.info("Successfully loaded data into 'staging.genres' table")
 
         # loading data into 'dbo.genres' table
@@ -170,15 +177,16 @@ def load_companies():
 
         WHEN NOT MATCHED
         THEN
-            INSERT(company_id, company_name)
-            VALUES(source.company_id, source.company_name)
+            INSERT(company_id, company_name, created_at, updated_at)
+            VALUES(source.company_id, source.company_name, GETDATE(), GETDATE())
 
         WHEN MATCHED AND (
             ISNULL(source.company_name, '') <> ISNULL(target.company_name,'')
         )
         THEN
             UPDATE SET
-                company_name=source.company_name
+                company_name=source.company_name,
+                updated_at=GETDATE()
 
         OUTPUT
             $action, inserted.company_id, deleted.company_id;
@@ -192,8 +200,8 @@ def load_companies():
 
         WHEN NOT MATCHED
         THEN
-            INSERT (company_id, movie_id)
-            VALUES (source.company_id, source.movie_id)
+            INSERT (company_id, movie_id, created_at, updated_at)
+            VALUES (source.company_id, source.movie_id, GETDATE(), GETDATE())
         
         OUTPUT
             $action, inserted.company_id;
@@ -205,8 +213,11 @@ def load_companies():
             production_companies_path)
         logger.info("Loading data into 'staging.production_companies' table")
         df_companies.drop_duplicates(subset=["company_id"], inplace=True)
+        # df_companies["created_at"] = pd.Timestamp.now()
+        with engine.begin() as conn:
+            conn.execute(text("TRUNCATE TABLE staging.production_companies"))
         df_companies.to_sql("production_companies", engine,
-                            schema="staging", if_exists="replace", index=False)
+                            schema="staging", if_exists="append", index=False)
         logger.info(
             "Successfully loaded data into 'staging.production_companies' table")
 
@@ -242,6 +253,10 @@ def load_companies():
 
 
 def load_data():
-    load_movies()
-    load_genres()
-    load_companies()
+    try:
+        load_movies()
+        load_genres()
+        load_companies()
+    except Exception as e:
+        logger.error(f"Error running Loading Data pipeline: {e}")
+        raise

@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 import logging
-from config.config import log_path
+from config import log_path
 
 
 def write_log(log_dir=log_path):

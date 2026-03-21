@@ -16,7 +16,9 @@ CREATE TABLE movies(
 	release_date DATETIME2,
 	vote_average INT,
 	vote_count INT,
-	CONSTRAINT PK_id PRIMARY KEY(id),
+	created_at DATETIME2,
+	updated_at DATETIME2,
+	CONSTRAINT PK_id PRIMARY KEY(id)
 )
 GO
 
@@ -26,7 +28,8 @@ GO
 CREATE TABLE genres(
 	genre_id INT,
 	genre_name NVARCHAR(50),
-	--CONSTRAINT FK_movie_id_movies_id FOREIGN KEY (movie_id) REFERENCES movies(id),
+	created_at DATETIME2,
+	updated_at DATETIME2,
 	CONSTRAINT PK_genre_id PRIMARY KEY (genre_id),
 )
 GO
@@ -37,8 +40,9 @@ GO
 CREATE TABLE production_companies(
 	company_id INT,
 	company_name NVARCHAR(500),
+	created_at DATETIME2,
+	updated_at DATETIME2,
 	CONSTRAINT PK_company_id PRIMARY KEY(company_id),
-	--CONSTRAINT FK_movie_id_movies_id FOREIGN KEY(movie_id) REFERENCES movies(id)
 )
 GO
 
@@ -49,8 +53,8 @@ GO
 CREATE TABLE movie_genre(
 	movie_id INT,
 	genre_id INT,
-	--CONSTRAINT FK_movie_id_movies_id FOREIGN KEY (movie_id) REFERENCES movies(id),
-	--CONSTRAINT FK_genre_id_genres_genre_id FOREIGN KEY (genre_id) REFERENCES genres(genre_id)
+	created_at DATETIME2,
+	updated_at DATETIME2
 )
 GO
 
@@ -60,7 +64,7 @@ GO
 CREATE TABLE movie_companies(
 	movie_id INT,
 	company_id INT,
-	--CONSTRAINT FK_movie_id_movies_id FOREIGN KEY (movie_id) REFERENCES movies(id),
-	--CONSTRAINT FK_company_id_company_company_id FOREIGN KEY (company_id) REFERENCES production_companies(company_id)
+	created_at DATETIME2,
+	updated_at DATETIME2
 )
 GO
